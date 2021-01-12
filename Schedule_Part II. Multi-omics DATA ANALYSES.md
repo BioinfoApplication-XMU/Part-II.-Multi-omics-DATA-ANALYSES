@@ -59,6 +59,7 @@
 * 学习参考资料: 
 
   [Chip-seq实践](https://lulab2.gitbook.io/teaching/part-iii.-ngs-data-analyses/3.chip-seq)清华鲁志老师课题组课件:Lulab_ChIP-seq and Network(QQ群下载)
+  
   test_BRCA_H3K27ac_data.ppt(QQ群下载)
 
 #### 3)ATAC-seq data analysis

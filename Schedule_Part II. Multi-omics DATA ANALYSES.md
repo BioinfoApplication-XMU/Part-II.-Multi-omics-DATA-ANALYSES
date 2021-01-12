@@ -72,6 +72,8 @@
   北大李程老师课题组课件:(1)ChengLi_genomics_analysis_13_Chromatin 2020.12;(2)ATAC-seq数据处理及应用（泽嘉）(QQ群下载)
   
   清华鲁志老师课题组课件:Lulab_ATAC-seq(QQ群下载)
+    
+   Workshop for ATAC-Seq analysis(QQ群下载)
 
 #### 4)RNA-seq and microarray data analysis
 * 负责人:  育祥

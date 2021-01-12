@@ -80,7 +80,7 @@
 
 * 学习参考资料:   
 
-  厦大生科院生物信息培训讲座资料(Training5-Sequencing technology& RNA-seq) (QQ群下载)
+  厦大生科院生物信息培训讲座资料(Training5-Sequencing technology& RNA-seq;Course2-RNA-seq_analysis-8.30-mengsha) (QQ群下载)
 
   北大李程老师课题组课件: ChengLi_genomics_analysis_04_RNA-seq 2020.10(QQ群下载)
 

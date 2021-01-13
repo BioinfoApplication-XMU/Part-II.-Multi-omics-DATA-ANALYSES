@@ -98,7 +98,7 @@ plotCounts(dds, gene=which.min(res$padj), intgroup="condition")
 dev.off()
 ```
 
-![cenpf](img/cenpf.png)
+![cenpf](https://raw.githubusercontent.com/BioinfoApplication-XMU/Part-II.-Multi-omics-DATA-ANALYSES/main/img/cenpf.png)
 
 4.3 Plot PCA
 ```
@@ -206,7 +206,7 @@ VlnPlot(Data, features = c("nFeature_RNA", "nCount_RNA"), ncol = 2)
 
 If using RStudio, you should see a figure like below immediately. Otherwise if using a terminal in the cloud server, you need to save the file as PDF or JPG and then FTP to local machine to view it.
 
-![violin](img/violin.png)
+![violin](https://raw.githubusercontent.com/BioinfoApplication-XMU/Part-II.-Multi-omics-DATA-ANALYSES/main/img/violin.png)
 
 We filter cells that have unique feature counts over 2,500 or less than 200
 ```
@@ -255,9 +255,9 @@ DimHeatmap(Data, dims = 1, cells = 500, balanced = TRUE)
 
 Some examples are below:
 
-![dimloading](img/dimloading.png)
-![dimplot](img/dimplot.png)
-![heatmap](img/heatmap.png)
+![dimloading](https://raw.githubusercontent.com/BioinfoApplication-XMU/Part-II.-Multi-omics-DATA-ANALYSES/main/img/dimloading.png)
+![dimplot](https://raw.githubusercontent.com/BioinfoApplication-XMU/Part-II.-Multi-omics-DATA-ANALYSES/main/img/dimplot.png)
+![heatmap](https://raw.githubusercontent.com/BioinfoApplication-XMU/Part-II.-Multi-omics-DATA-ANALYSES/main/img/heatmap.png)
 
 - Determine the 'dimensionality' of the dataset
 Seurat clusters cells based on their PCA scores. Seurat uses a heuristic method to determine the number of components for the clustering stage. Note that this step may take some time depending on the speed of the local computer or cloud server.
@@ -270,7 +270,7 @@ JackStrawPlot(Data, dims = 1:15)
 
 An example plot is shown below:
 
-![jackstraw](img/jackstraw.png)
+![jackstraw](https://raw.githubusercontent.com/BioinfoApplication-XMU/Part-II.-Multi-omics-DATA-ANALYSES/main/img/jackstraw.png)
 
 ## Cluster the cells
 
@@ -288,7 +288,7 @@ DimPlot(Data, reduction = "tsne")
 
 An example plot is shown below:
 
-![tsne](img/tsne.png)
+![tsne](https://raw.githubusercontent.com/BioinfoApplication-XMU/Part-II.-Multi-omics-DATA-ANALYSES/main/img/tsne.png)
 
 Note that tSNE results are not reproducible without a PCA initialization [citation](https://www.biorxiv.org/content/biorxiv/early/2018/10/25/453449.full.pdf), so you may want to explore pca first before running tSNE.
 
@@ -310,8 +310,8 @@ FeaturePlot(Data, features = c("MS4A1", "GNLY", "CD3E", "CD14", "FCER1A", "FCGR3
 
 We will see how the specific genes are highly enriched in one cluster versus the other clusters:
 
-![ms4a1](img/ms4a1.png)
-![featureplot](img/featureplot.png)
+![ms4a1](https://raw.githubusercontent.com/BioinfoApplication-XMU/Part-II.-Multi-omics-DATA-ANALYSES/main/img/ms4a1.png)
+![featureplot](https://raw.githubusercontent.com/BioinfoApplication-XMU/Part-II.-Multi-omics-DATA-ANALYSES/main/img/featureplot.png)
 
 Note that the above procedures represent a simplified workflow of what was described originally from the developers [here](https://satijalab.org/seurat/v3.0/pbmc3k_tutorial.html). Some slightly more advanced tutorials can be found [here](https://satijalab.org/seurat/vignettes.html) if you are interested to tackle more challenges.
 

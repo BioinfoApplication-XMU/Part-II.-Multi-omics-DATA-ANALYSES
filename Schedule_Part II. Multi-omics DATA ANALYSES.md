@@ -129,7 +129,9 @@
    
    [克里克学苑蛋白质组数据分析基础](https://mp.weixin.qq.com/s/6A23kyhIgze-nQxCZD0Txw)
    
-  [ProteomeExpert分析R包实践](http://www.github.com/lifeinfo/ProteomeExpert/)
+   [ProteomeExpert分析R包实践](http://www.github.com/lifeinfo/ProteomeExpert/)
+  
+   [Diamond-DIA Mass Spectrometry Data Processing Pipeline](https://github.com/xmuyulab/Diamond)
 
 #### 7)Phosphoproteome data analysis
 

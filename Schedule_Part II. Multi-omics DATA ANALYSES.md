@@ -22,6 +22,8 @@
   清华鲁志老师课题组课件:Lulab_NGS(俊毅)
 
   PDF file:Course1-NGS data formats and tools-8.29-mengsha(QQ群下载): (俊毅)
+  
+  [bam_vcf 实践](https://github.com/WGLab/dragonstar2019/tree/master/day1_bam_vcf) (俊毅)
 
   《The Biostar Handbook》(QQ群下载): 
   
@@ -38,18 +40,28 @@
   
   [Blast实践](https://lulab2.gitbook.io/teaching/part-ii.-basic-analyses/1.seqblast)清华鲁志老师课题组课件:Lulab_Sequence Alignment - Blast(育祥)  
   
+  [Alignment实践](https://github.com/WGLab/dragonstar2019/tree/master/day2_alignment) (育祥)
+  
   [Mapping实践](https://lulab2.gitbook.io/teaching/part-iii.-ngs-data-analyses/1.mapping)清华鲁志老师课题组课件:Lulab_Reads Mapping - Bowtie(育祥)
+  
+  [assembly实践](https://github.com/WGLab/dragonstar2019/tree/master/day2_assembly) (育祥)
 
 #### 1)DNA-seq data analysis
-* 负责人:俊毅
+* 负责人:俊毅/诺琪
 
-* 学习目标：1.掌握DNA-seq数据分析流程;2.掌握外显子组数据分析流程
+* 学习目标：1.掌握DNA-seq数据分析流程;2.掌握外显子组数据分析流程;3.掌握GWAS基本分析;4.CNV
 
 * 学习参考资料: 
 
   清华鲁志老师课题组课件:Lulab_DNA-seq and Genomic Features(QQ群下载)
 
   厦大生科院生物信息培训讲座资料(Training6-WES)(QQ群下载)
+  
+  [GWAS分析](https://github.com/WGLab/dragonstar2019/tree/master/day4_gwas) (诺琪)
+  
+  [Detection of copy number variants from DNA microarrays](https://github.com/WGLab/dragonstar2019/tree/master/day3_SV) (诺琪)
+  
+  [functionally annotate genetic variants](https://github.com/WGLab/dragonstar2019/tree/master/day3_annotation) (诺琪)
 
 #### 2)Chip-seq data analysis
 * 负责人:诺琪

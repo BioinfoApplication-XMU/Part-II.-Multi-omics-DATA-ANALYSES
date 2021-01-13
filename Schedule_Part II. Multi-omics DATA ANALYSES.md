@@ -124,7 +124,9 @@
 * 学习目标: 掌握蛋白质组数据分析流程
 
 * 学习参考资料：
+
    蛋白质组学课件(QQ群下载)
+   
   [ProteomeExpert分析R包实践](http://www.github.com/lifeinfo/ProteomeExpert/)
 
 #### 7)Phosphoproteome data analysis
@@ -134,7 +136,9 @@
 - 学习目标：掌握磷酸化组数据分析流程
 
 - 学习参考资料: 
+
   磷酸化组学课件(QQ群下载)
+  
   [Phosmap分析R包实践](https://github.com/ecnuzdd/PhosMap)      
 
 #### 8)scRNA-seq data analysis 

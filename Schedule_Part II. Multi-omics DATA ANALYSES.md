@@ -90,8 +90,18 @@
   清华鲁志老师课题组课件:Lulab_ATAC-seq(QQ群下载)
     
    Workshop for ATAC-Seq analysis(QQ群下载)
+   
+#### 4)HiC-data analysis
+* 负责人: 嘉琦
 
-#### 4)RNA-seq and microarray data analysis
+* 学习目标：掌握HiC-data数据分析流程
+
+* 学习参考资料:
+  
+  北大李程老师课题组课件:ChengLi_genomics_analysis_13_Chromatin 2020.12;
+  HiC-data数据处理及应用(QQ群下载)
+
+#### 5)RNA-seq and microarray data analysis
 * 负责人:  育祥
 
 * 学习目标：掌握RNA-seq与基因芯片数据分析流程
@@ -106,7 +116,7 @@
 
   [基因芯片处理](https://github.com/scRNA-XMU/Process-the-GEO-microarray-data/blob/main/step1_bulkdata_process.R)
 
-#### 5)Proteome data analysis
+#### 6)Proteome data analysis
 * 负责人:雅岚
 
 * 学习目标: 掌握蛋白质组数据分析流程
@@ -115,7 +125,7 @@
 
   [ProteomeExpert分析R包实践](http://www.github.com/lifeinfo/ProteomeExpert/)
 
-#### 6)Phosphoproteome data analysis
+#### 7)Phosphoproteome data analysis
 
 - 负责人: 雅岚
 
@@ -125,7 +135,7 @@
 
   [Phosmap分析R包实践](https://github.com/ecnuzdd/PhosMap)      
 
-#### 7)scRNA-seq data analysis 
+#### 8)scRNA-seq data analysis 
 
 * 负责人: 啸澳
 
@@ -141,7 +151,7 @@
 
   [Seurat分析R包实践](https://satijalab.org/seurat/)
 
-#### 8)scATAC-seq data analysis
+#### 9)scATAC-seq data analysis
 
 - 负责人: 诺琪
 
@@ -151,7 +161,7 @@
 
   厦大生科院生物信息培训讲座资料(Training10_scATACseq) (QQ群下载)                   
 
-#### 9)Spatial data analysis
+#### 10)Spatial data analysis
 
 - 负责人: 雨娟
 
@@ -163,7 +173,7 @@
 
 ​       [空间转录组综述Nature Method](https://mp.weixin.qq.com/s/47iA--HPxbr7DYVVrcPA8A)
 
-#### 10)Image data analysis
+#### 11)Image data analysis
 
 - 负责人: 元杰/家志/潘越
 

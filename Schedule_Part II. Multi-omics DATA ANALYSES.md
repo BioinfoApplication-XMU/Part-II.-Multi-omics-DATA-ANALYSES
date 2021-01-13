@@ -7,6 +7,8 @@
 
 ###### --介绍每种组学数据的基本分析流程(组学应用目的;数据集(data/input)，分析pipelines,输出结果解释(output))
 
+###### --案例数据寻找：推荐学习资料里面的课件;生信技能树公众号里面的案例数据(优先SCI文献里面的GSE系列数据，数据量小，且有分析结果可对照)
+
 ## 必学内容
 
 #### 0)High-throughtput data formats and tools

@@ -127,6 +127,8 @@
 
    蛋白质组学课件(QQ群下载)
    
+   [克里克学苑蛋白质组数据分析基础](https://mp.weixin.qq.com/s/6A23kyhIgze-nQxCZD0Txw)
+   
   [ProteomeExpert分析R包实践](http://www.github.com/lifeinfo/ProteomeExpert/)
 
 #### 7)Phosphoproteome data analysis
